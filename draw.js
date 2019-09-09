@@ -1,6 +1,6 @@
 /*!
  * Drawing with canvas v1.0
- * https://github.com/zhak55/draw
+ * 
  *
  * Copyright 2014 Roman Zhak
  * Released under the MIT license
